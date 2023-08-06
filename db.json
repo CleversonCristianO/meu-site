@@ -1,0 +1,45 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "titulo": "Novo Super Heroi A Solta",
+            "ano": 1873,
+            "imagem": "../noticeimg/i779032.webp"
+        },
+        {
+            "id": 2,
+            "titulo": "gARIEL",
+            "ano": 1873,
+            "imagem": "../noticeimg/i779032.webp"
+        },
+        {
+            "id": 3,
+            "titulo": "gARIEL",
+            "ano": 1873,
+            "imagem": "../noticeimg/i779032.webp"
+        }
+        ,
+        {
+            "id": 4,
+            "titulo": "gARIEL",
+            "ano": 1873,
+            "imagem": "../noticeimg/i779032.webp"
+        }
+        ,
+        {
+            "id": 5,
+            "titulo": "gARIEL",
+            "ano": 1873,
+            "imagem": "../noticeimg/i779032.webp"
+        },
+        {
+            "id": 6,
+            "titulo": "gARIEL",
+            "ano": 1873,
+            "imagem": "../noticeimg/i779032.webp"
+        }
+        
+        
+
+    ]
+}
